@@ -42,12 +42,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
----
----
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
